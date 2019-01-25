@@ -8,5 +8,6 @@ The NN looks nice tho.
 TODOs:
 * implementing the normalization, when I switched to RGB it broke
 * implementing the  random drop of pixels for the augmenting
+* Generation of more DATAs (should use the fit from generation but it seems a lot of work, last thing to do)
 
 Training loss goes down to about 4.5 during 10 epochs and the validations loss around 10 (It's getting somewhere!!)
